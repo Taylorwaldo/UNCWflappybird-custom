@@ -1,4 +1,4 @@
-![Image Alt](https://github.com/Taylorwaldo/UNCWflappybird-custom/blob/main/images_gifs/title_readme.png?raw=true)
+![Image Alt](https://github.com/Taylorwaldo/UNCWflappybird-custom/blob/main/readme_media/title_readme.v1.cropped.png?raw=true)
 
 A faithful recreation of the classic Flappy Bird game built with Python and Pygame, featuring smooth animations, particle effects, and authentic gameplay mechanics.
 
