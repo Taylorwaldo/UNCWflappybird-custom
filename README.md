@@ -85,7 +85,9 @@ Sound effects may not work on some systems - game will continue without audio
 
 Requires specific image and sound files to be present in correct directories
 
+### License
 
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ### Acknowledgments
 
