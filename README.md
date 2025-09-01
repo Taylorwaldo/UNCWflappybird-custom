@@ -82,6 +82,7 @@ FPS = 60               # Frame rate
 ### Known Issues
 
 Sound effects may not work on some systems - game will continue without audio
+
 Requires specific image and sound files to be present in correct directories
 
 
@@ -89,5 +90,7 @@ Requires specific image and sound files to be present in correct directories
 ### Acknowledgments
 
 Original Flappy Bird game created by Dong Nguyen
+
 Pygame community for comprehensive documentation and tutorials
+
 Open-source contributors for sound effects and sprite assets
