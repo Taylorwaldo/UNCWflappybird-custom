@@ -9,7 +9,7 @@ A faithful recreation of the classic Flappy Bird game built with Python and Pyga
 Navigate your bird through an endless series of green pipes by tapping the spacebar to flap and stay airborne. Each pipe you pass increases your score - but be careful, one wrong move and it's game over!
 
 <p align="center">
-  <img src="https://github.com/Taylorwaldo/UNCWflappybird-custom/blob/main/readme_media/Screen%20Recording%202025-09-01%20at%203.50.58%20PM.gif?raw=true" alt="Demo GIF" width="400"/>
+  <img src="https://github.com/Taylorwaldo/UNCWflappybird-custom/blob/main/readme_media/ScreenRecording2025-09-01at3.50.58PM-ezgif.com-optimize(1).gif?raw=true" alt="Demo GIF" width="400"/>
 </p>
 
 
