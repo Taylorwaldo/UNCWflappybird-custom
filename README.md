@@ -16,11 +16,17 @@ Navigate your bird through an endless series of green pipes by tapping the space
 ### Features
 
 -> Authentic Gameplay - Faithful recreation of the original Flappy Bird mechanics
+
 -> Smooth Animations - Wing flapping, bird rotation, and scrolling backgrounds
+
 -> Particle Effects - Impact particles when colliding with pipes or ground
+
 -> Sound Effects - Wing flaps, scoring, collisions, and game over sounds
+
 -> Score Tracking - Current score display with persistent high score
+
 -> Multiple Game States - Start screen, gameplay, and game over screens
+
 -> Optimized Performance - Efficient rendering and asset management
 
 
@@ -58,6 +64,26 @@ Controls
 |-----|--------|
 | `SPACE` | Flap wings / Start game / Restart after game over |
 | `ESC` or closing window | Quit game |
+
+### Configuration
+
+The game can be easily customized by adjusting parameters in the constants section:
+
+```python
+# Game constants
+GRAVITY = 0.8           # Bird fall speed
+JUMP_STRENGTH = -8      # Bird jump power
+PIPE_SPEED = 3          # Pipe movement speed
+FLOOR_SPEED = 1         # Floor scrolling speed
+PIPE_GAP = 180         # Gap between pipes
+FPS = 60               # Frame rate
+```
+
+### Known Issues
+
+Sound effects may not work on some systems - game will continue without audio
+Requires specific image and sound files to be present in correct directories
+
 
 
 ### Acknowledgments
