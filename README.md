@@ -42,8 +42,8 @@ Clone the repository
 
 
 ```bash
-git clone https://github.com/yourusername/flappy-bird.git
-cd flappy-bird
+git clone https://github.com/Taylorwaldo/UNCWflappybird-custom.git
+cd UNCWflappybird-custom
 ```
 
 ### Install dependencies
