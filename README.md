@@ -12,6 +12,7 @@ Navigate your bird through an endless series of green pipes by tapping the space
   <img src="https://github.com/Taylorwaldo/UNCWflappybird-custom/blob/main/readme_media/ScreenRecording2025-09-01at3.50.58PM-ezgif.com-optimize(1).gif?raw=true" alt="Demo GIF" width="400"/>
 </p>
 
+Note: Game may appear to move slower due to gif loading, the actual speed is compariable to the real Flappy Bird game.
 
 ### Features
 
